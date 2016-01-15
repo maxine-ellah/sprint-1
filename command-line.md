@@ -3,7 +3,7 @@ cd change directory allows you to navigate between different directories
 mkdir make directory allows you to create new directories
 ls list files allows you to see a list of the files inside a directory
 pwd print working directory shows you which directory you are currently working in
-hostname tells you the name of the computer you are working on
+hostname tells you the name of the computer you are working onm
 mv move directory move a file/rename a file
 rmdir remove directory removes directories when followed by the name of the directory (case sensitive)
 rm remove file removes files inside a directory when followed by the name of the file (case sensitive)
